@@ -2,7 +2,19 @@
 nixPkgs = ["python311", "pip"]
 
 [phases.install]
-cmds = ["pip install -r requirements.txt"]
+cmds = [
+  "pip install --no-cache-dir fastapi==0.109.0",
+  "pip install --no-cache-dir uvicorn[standard]==0.27.0",
+  "pip install --no-cache-dir pydantic==2.5.3",
+  "pip install --no-cache-dir pydantic-settings==2.1.0",
+  "pip install --no-cache-dir 'httpx>=0.24.0,<0.25.0'",
+  "pip install --no-cache-dir supabase==2.3.0",
+  "pip install --no-cache-dir postgrest==0.13.0",
+  "pip install --no-cache-dir openai==1.10.0",
+  "pip install --no-cache-dir python-dotenv==1.0.0",
+  "pip install --no-cache-dir python-multipart==0.0.6",
+  "pip install --no-cache-dir gunicorn==21.2.0"
+]
 
 [phases.build]
 cmds = []
