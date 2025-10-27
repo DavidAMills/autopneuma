@@ -8,7 +8,7 @@ import { Badge } from '@/components/ui/badge'
 const PLACEHOLDER_POSTS = [
   {
     id: '1',
-    title: 'Welcome to Auto Pneuma! Let's introduce ourselves',
+    title: "Welcome to Auto Pneuma! Let's introduce ourselves",
     excerpt:
       'Share a bit about yourself, your journey with Christ, and your passion for technology...',
     author: {

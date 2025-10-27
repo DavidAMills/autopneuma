@@ -27,7 +27,7 @@ const PROJECTS = [
     description:
       'An AI-powered app that helps users memorize Bible verses through spaced repetition and personalized quizzes.',
     spiritual_application:
-      'Helps believers hide God's Word in their hearts through effective memorization techniques powered by AI.',
+      "Helps believers hide God's Word in their hearts through effective memorization techniques powered by AI.",
     creator: {
       id: 'user1',
       name: 'Rachel Kim',

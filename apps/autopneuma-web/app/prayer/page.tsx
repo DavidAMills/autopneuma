@@ -96,7 +96,7 @@ const PRAYER_REQUESTS = [
     id: '6',
     title: 'Peace in Uncertain Times',
     content:
-      'With all the rapid changes in AI and technology, praying for believers to have peace and wisdom. That we would trust God's sovereignty over innovation.',
+      "With all the rapid changes in AI and technology, praying for believers to have peace and wisdom. That we would trust God's sovereignty over innovation.",
     author: {
       name: 'Michael Torres',
       username: 'mtorres',
