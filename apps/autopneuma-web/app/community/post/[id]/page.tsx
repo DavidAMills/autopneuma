@@ -13,7 +13,7 @@ export const metadata: Metadata = {
 async function getPost(id: string) {
   return {
     id,
-    title: 'Welcome to Auto Pneuma! Let's introduce ourselves',
+    title: "Welcome to Auto Pneuma! Let's introduce ourselves",
     content: `Welcome to the Auto Pneuma community!
 
 We're here to build a Christian community that supports and spreads the Gospel for the glory of our Lord — creating and growing the community of Christ through our many gifts, which share the love and grace of the same eternal Spirit.

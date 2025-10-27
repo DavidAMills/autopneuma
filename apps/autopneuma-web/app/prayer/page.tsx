@@ -32,7 +32,7 @@ const PRAYER_REQUESTS = [
     id: '2',
     title: 'Strength During Job Search',
     content:
-      'Been searching for a software engineering role for 3 months. Trusting God's timing but would appreciate prayers for peace and provision.',
+      "Been searching for a software engineering role for 3 months. Trusting God's timing but would appreciate prayers for peace and provision.",
     author: {
       name: 'Anonymous',
       username: 'user_anon',

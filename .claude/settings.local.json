@@ -7,7 +7,17 @@
       "Bash(git add:*)",
       "Bash(git config --global --add safe.directory '%(prefix)///192.168.0.192/docker/autopneuma')",
       "Bash(git reset:*)",
-      "Bash(git check-ignore:*)"
+      "Bash(git check-ignore:*)",
+      "Bash(git commit:*)",
+      "Bash(gh auth:*)",
+      "Bash(git config:*)",
+      "Read(//c/Users/david/.ssh/**)",
+      "Bash(cat:*)",
+      "Bash(git remote add:*)",
+      "Bash(git push:*)",
+      "Bash(git remote:*)",
+      "Bash(curl:*)",
+      "Read(//c/Users/david/**)"
     ],
     "deny": [],
     "ask": []

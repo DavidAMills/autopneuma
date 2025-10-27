@@ -64,7 +64,7 @@ The app uses a custom spaced repetition algorithm combined with GPT-4 for genera
 
 Visit the GitHub repository for setup instructions and documentation.`,
     spiritual_application:
-      'Helps believers hide God's Word in their hearts through effective memorization techniques powered by AI. Psalm 119:11 - "I have hidden your word in my heart that I might not sin against you."',
+      "Helps believers hide God's Word in their hearts through effective memorization techniques powered by AI. Psalm 119:11 - \"I have hidden your word in my heart that I might not sin against you.\"",
     creator: {
       id: 'user1',
       name: 'Rachel Kim',
