@@ -79,7 +79,7 @@ const PROJECTS = [
     description:
       'AI assistant that helps organize prayer requests, track answered prayers, and provide Scripture encouragement.',
     spiritual_application:
-      'Strengthens believers' prayer lives by organizing requests and celebrating God's faithfulness over time.',
+      "Strengthens believers' prayer lives by organizing requests and celebrating God's faithfulness over time.",
     creator: {
       id: 'user3',
       name: 'Sarah Chen',
@@ -131,7 +131,7 @@ const PROJECTS = [
     description:
       'Interactive AI tutor for learning Biblical Hebrew and Koine Greek with contextual examples from Scripture.',
     spiritual_application:
-      'Equips believers to study Scripture in original languages, deepening understanding of God's Word.',
+      "Equips believers to study Scripture in original languages, deepening understanding of God's Word.",
     creator: {
       id: 'user5',
       name: 'Anna Williams',
@@ -216,7 +216,7 @@ export default function ProjectsPage() {
               <p className="mt-2 text-muted-foreground max-w-3xl">
                 Explore AI and technology projects built by believers for
                 Kingdom impact. Share your work, discover inspiration, and
-                collaborate for God's glory.
+                collaborate for God&apos;s glory.
               </p>
             </div>
             <Link href="/projects/new">
@@ -383,7 +383,7 @@ export default function ProjectsPage() {
             <div>
               <h3 className="text-lg font-semibold mb-2">Share Your Work</h3>
               <p className="text-white/80 text-sm">
-                Show how you're using your technical gifts for Kingdom purposes.
+                Show how you&apos;re using your technical gifts for Kingdom purposes.
                 Include links to GitHub, demos, and documentation.
               </p>
             </div>
